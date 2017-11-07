@@ -11,3 +11,5 @@ These feature maps can be used to train external classifiers like Support Vector
 
 Here VGG-16 net and Alexnet can be used to extract features.
 ## Details of included files.
+For realisation of my work I have sourced codes from various online sourcesand rebuilt it according to my requirement.
+* Code for Alexnet was obtained from [here](https://github.com/duggalrahul/AlexNet-Experiments-Keras). It was modified for binary class problem.
