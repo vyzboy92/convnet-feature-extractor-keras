@@ -8,12 +8,14 @@ Convolutional neural nets are higly powerful image classifiers, that distinguish
 Andrej Karpathy's tutorial is a good read to get in depth understanding of CNNs. It can be found here: http://cs231n.github.io/
 
 These feature maps can be used to train external classifiers like Support Vector Machines and Random Forest. Relevance of such an approach is when there is insufficient data to train neural nets. Scarcity of data could lead the net to over-fit. Such a situation could be avoided by above mentioned approach.
+All the feature learning strategy of CNN are detailed by [Matthew D Zeiler, Rob Fergus](http://arxiv.org/abs/1311.2901)
 
 Here VGG-16 net and Alexnet can be used to extract features.
 ## Details of included files.
 For realisation of my work I have sourced codes from various online sourcesand rebuilt it according to my requirement.
 * Code for Alexnet was obtained from [here](https://github.com/duggalrahul/AlexNet-Experiments-Keras). It was modified for binary class problem.
-* Pretrained weight for vehicle classifier can be downloaded from [here](https://drive.google.com/open?id=1LCNoVpNIkPeZUvdtw3Eb1t0H85omBOfu)
+* Pretrained weight for AlexNet vehicle classifier can be downloaded from [here](https://drive.google.com/open?id=1LCNoVpNIkPeZUvdtw3Eb1t0H85omBOfu)
+* Pretrained weight for VGG-16 vehicle classifier can be downloaded from [here]
 ## Arrangement of images for training
     Data/
         Train/
