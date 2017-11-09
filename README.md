@@ -15,7 +15,7 @@ Here VGG-16 net and Alexnet can be used to extract features.
 For realisation of my work I have sourced codes from various online sourcesand rebuilt it according to my requirement.
 * Code for Alexnet was obtained from [here](https://github.com/duggalrahul/AlexNet-Experiments-Keras). It was modified for binary class problem.
 * Pretrained weight for AlexNet vehicle classifier can be downloaded from [here](https://drive.google.com/open?id=1LCNoVpNIkPeZUvdtw3Eb1t0H85omBOfu)
-* Pretrained weight for VGG-16 vehicle classifier can be downloaded from [here]
+* Pretrained weight for VGG-16 vehicle classifier can be downloaded from [here](https://drive.google.com/open?id=1oMGzNNxyqs5Sz86DdZxevRn3S-_jdDFz)
 ## Arrangement of images for training
     Data/
         Train/
